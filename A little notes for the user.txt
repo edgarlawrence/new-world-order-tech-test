@@ -1,0 +1,18 @@
+This is some a short explanation about the tools that i've using it during working this project.
+
+For the frontend, i choose an one of minimalistic and powerful javascript's framework called vue.
+why i'm using it? Because for me as an front end web developer, this languange it's so beautiful
+that everytime i need recompile every update it just take any seconds without some delay.
+
+the rest of it, i'm following the rules of the test, such as i'm using tailwind and also completely
+setup it on laravel webpack
+
+therefore once again, to whoever inspecting this test.
+i'm simply humbly to thank you enough for giving me this wonderful opportunity
+
+Sincere 
+Your Humble Candidate Developer :)
+
+P.S:
+this is the toturial's link of how to clone my laravel project
+https://stackoverflow.com/questions/38602321/cloning-laravel-project-from-github
